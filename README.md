@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Siddharth Bajaj  <br><br>💻 Aspiring Software Engineer | Java & MERN Stack Learner  <br><br>- 🔹 Solving coding problems on platforms like CodeChef & LeetCode  <br>- 🔹 Strong interest in Java, Data Structures & Algorithms  <br>- 🔹 Learning Full Stack Web Development (MERN Stack)  <br>- 🔹 Building real-world projects to strengthen problem-solving skills  <br>- 🔹 Passionate about technology and continuous learning  <br><br>📫 How to reach me:  <br>- Email: your-siddharthbajaj24@gmail.com  <br>- LinkedIn:www.linkedin.com/in/siddharth-bajaj-059957257<br>
+Hi 👋, I'm Siddharth Bajaj  <br><br>💻 Aspiring Software Engineer | Java & MERN Stack Learner  <br><br>- 🔹 Solving coding problems on platforms like CodeChef & LeetCode  <br>- 🔹 Strong interest in Java, Data Structures & Algorithms  <br>- 🔹 Learning Full Stack Web Development (MERN Stack)  <br>- 🔹 Building real-world projects to strengthen problem-solving skills  <br>- 🔹 Passionate about technology and continuous learning  <br><br>📫 How to reach me:  <br>- Email: siddharthbajaj24@gmail.com  <br>- LinkedIn: www.linkedin.com/in/siddharth-bajaj-059957257<br>
 
 
 ## 🌐 Socials:
